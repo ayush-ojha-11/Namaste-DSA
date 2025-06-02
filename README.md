@@ -19,11 +19,3 @@ This repository contains all the code and resources from the **Namaste DSA** cou
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the code or add explanations.
-
-## 📢 License
-
-This repository is for educational purposes only.
-
----
-
-Happy Learning! 🚀
