@@ -1,10 +1,10 @@
-# Namaste DSA - By Akshay Sir
+# DSA
 
-This repository contains all the code and resources from the **Namaste DSA** course. The goal is to maintain a well-organized collection of solutions and notes, making it easy for everyone to access and learn from.
+This repository contains all the code and resources of DSA. The goal is to maintain a well-organized collection of solutions and notes, making it easy for everyone to access and learn from.
 
 ## 📚 Contents
 
-- Structured code for each topic covered in the course
+- Structured code for each topic
 - Well-commented solutions for better understanding
 - Additional notes and explanations where necessary
 
