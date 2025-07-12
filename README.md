@@ -12,7 +12,7 @@ This repository contains all the code and resources of DSA. The goal is to maint
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/namaste-dsa.git
+   git clone https://github.com/ayush-ojha-11/namaste-dsa.git
    ```
 2. Browse through the folders by topic or lesson.
 
