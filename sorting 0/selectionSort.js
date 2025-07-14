@@ -10,6 +10,7 @@ function selectionSort(arr) {
         min_index = j;
       }
     }
+    //swap
     let temp = a[min_index];
     a[min_index] = a[i];
     a[i] = temp;
